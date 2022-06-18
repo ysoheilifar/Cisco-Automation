@@ -4,6 +4,7 @@ Cisco router and switche automation with python
 2. Install prerequisites
 ```python
 pip install netmiko
+
 pip install paramiko
 ```
 3.  
