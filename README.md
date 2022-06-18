@@ -14,4 +14,4 @@ pip install paramiko
 py cisco-automation.py
 ```
 
-<p align=center><b>Smile and Enjoy the Code :sunglasses:</p>
+<p align=center><b>Smile and Enjoy the Code :v:</p>
