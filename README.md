@@ -9,7 +9,7 @@ pip install paramiko
 ```
 3.  Put the IPs of cisco devices in order and line by line in the `devices_list.txt` file
 4.  Put all the commands of your cisco device in order and line by line in the `commands_all_devices` file
-5.  Run cisco-automation.py
+5.  Run `cisco-automation.py`
 ```python
 py cisco-automation.py
 ```
